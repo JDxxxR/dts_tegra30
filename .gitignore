@@ -1,0 +1,7 @@
+assets/*
+venv/
+**/__pycache__/
+**/*.dts
+**/*.dtb
+**/*.json
+notes
